@@ -2,10 +2,6 @@
 
 ## Lab 06: Bootstrap
 
-**Due**: Sunday @ 23:55 Edmonton Time
-
-**Weight**: 5% of your final grade
-
 ---
 
 ## Instructions
